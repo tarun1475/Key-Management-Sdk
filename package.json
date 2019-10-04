@@ -1,0 +1,25 @@
+{
+  "name": "key-recovery-sdk",
+  "version": "1.0.0",
+  "description": "Key Recovery SDK in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bip32": "^2.0.1",
+    "bip39": "^3.0.2",
+    "bitcoinjs-lib": "^4.0.3",
+    "bitcore-lib": "^0.16.0",
+    "blockchain.info": "^2.12.1",
+    "coinselect": "^3.1.11",
+    "cryptr": "^4.0.0",
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-units": "^0.2.0",
+    "secret-sharing.js": "^1.3.1",
+    "virgil-crypto": "^3.0.0-alpha.14"
+  }
+}
