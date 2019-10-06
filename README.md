@@ -5,6 +5,8 @@ The SDK can be plugged into your existing wallet and covers all the edge-cases i
 
 Introductory Blog Post : https://medium.com/coinsafeapp/introducing-coinsafe-never-lose-your-bitcoins-ever-cbf69bce9099
 
+Key management architecture : https://medium.com/coinsafeapp/coinsafe-has-zero-knowledge-of-its-users-heres-how-abb102fe2f97
+
 ### How do I set it up?
 
 git clone https://github.com/tarun1475/key-management-sdk
